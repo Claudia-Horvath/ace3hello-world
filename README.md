@@ -2,3 +2,4 @@
 Because we don't know how git works...
 
 Rokas was here.
+Claudia was here too.
